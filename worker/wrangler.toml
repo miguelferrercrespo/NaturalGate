@@ -1,4 +1,4 @@
-name = "smart-gateway"
+name = "naturalgate"
 main = "src/index.js"
 compatibility_date = "2024-09-23"
 
